@@ -4,3 +4,4 @@ Banios de Agua Santa
 Cuarto Semestre
 Manejo y Cofiguración de Software
 Metodologías Ágiles
+Computación visual
