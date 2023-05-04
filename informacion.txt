@@ -5,3 +5,4 @@ Cuarto Semestre
 Manejo y Cofiguración de Software
 Metodologías Ágiles
 Computación visual
+Bases de datos
